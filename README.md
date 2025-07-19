@@ -48,8 +48,8 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
-cd prince
+git clone https://github.com/SarvagyaGupta73/Feedback_Assignment.git
+cd Feedback_Assignment
 ```
 
 ### 2. Install Dependencies
